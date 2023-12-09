@@ -1,4 +1,4 @@
-body{background-color: lightcoral; 
+body{background-color: rgb(130, 128, 240); 
 font-size: larger; color: white; font-style: normal;
 }
 h2 {
@@ -11,4 +11,19 @@ p{
 }
 header {font-size: 28pt; font-weight: bolder; color: white; margin-block-start: .05em; margin-block-end: .05em;
 padding: .02em; border: .02em;  background-color: rgb(143, 150, 149);
+}
+#homepage{background-color:lightcoral}
+    .paragraph2{
+        background-color: rgb(143, 150, 149); text-align: left; font-size: 16pt; padding: 3em; border: 1em;
+        margin-block-start: 0.5em; margin-block-end: 1em;
+    }
+
+#portfolio{background-color: rgb(209, 33, 92); }
+.paragraph3 {background-color: black;  text-align: left; font-size: 16pt; padding: 3em; border: 1em;
+    margin-block-start: 0.5em; margin-block-end: 1em;
+
+}
+#about{background-color: rgb(207, 53, 79);
+.paragraph1{ background-color: brown;  text-align: left; font-size: 16pt; padding: 3em; border: 1em;
+    margin-block-start: 0.5em; margin-block-end: 1em;
 }
